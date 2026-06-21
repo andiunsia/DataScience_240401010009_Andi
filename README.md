@@ -25,7 +25,7 @@ Semua notebook dijalankan di **Google Colab** dan disimpan dengan penamaan yang 
 | 7 | Pengantar Machine Learning: Regresi Linier | [Pertemuan7_Andi_240401010009](Pertemuan7_Andi_240401010009.ipynb) |
 
 ---
-## Tools & Library yang Digunakan
+## Tools & Library yang digunakan
 
 - **Python 3** – Bahasa pemrograman utama
 - **Google Colab** – Lingkungan eksekusi interaktif
