@@ -7,7 +7,7 @@
 **Program Studi:** Data Science
 
 ---
-Repositori ini berisi kumpulan notebook yang saya gunakan untuk mempelajari dasar-dasar **Data Science** dalam perkuliahan Pengantar Data Science. Dari pertemuan pertama hingga ketujuh, saya belajar bertahap mulai dari pengenalan Python, eksplorasi data, visualisasi, hingga pemodelan Machine Learning sederhana.
+Repositori ini berisi kumpulan notebook yang digunakan untuk mempelajari dasar-dasar **Data Science** dalam perkuliahan Pengantar Data Science. Dari pertemuan pertama hingga ketujuh, belajar bertahap mulai dari pengenalan Python, eksplorasi data, visualisasi, hingga pemodelan Machine Learning sederhana.
 
 Semua notebook dijalankan di **Google Colab** dan disimpan dengan penamaan yang rapi agar mudah dilacak. Tujuan akhirnya adalah membangun fondasi yang kuat dalam pengolahan data, analisis statistik, dan pembuatan model prediktif.
 
