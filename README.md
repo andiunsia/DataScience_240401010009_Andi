@@ -1,5 +1,6 @@
 # UTS Data Science
 
+---
 **Nama:** Andi  
 **NIM:** 240401010009  
 **Kelas:** IF401
@@ -35,7 +36,7 @@ Semua notebook dijalankan di **Google Colab** dan disimpan dengan penamaan yang 
 - **SciPy** – Uji statistik dan transformasi data
 
 ---
-# Kesimpulan Umum Perjalanan Belajar (Pertemuan 1–7)
+# Kesimpulan Pertemuan 1–7
 Selama tujuh pertemuan merupakan pembelajaran Data Science yang terstruktur dan bertahap :
 
 Pertemuan 1 menjadi fondasi awal, dimana dikenalkan dengan Python, variabel, list, perulangan, dan fungsi – semua dalam lingkungan Google Colab.
