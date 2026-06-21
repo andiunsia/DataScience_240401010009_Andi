@@ -17,12 +17,12 @@ Semua notebook dijalankan di **Google Colab** dan disimpan dengan penamaan yang 
 | Pertemuan | Topik | Notebook |
 |-----------|-------|----------|
 | 1 | Pengenalan Python & Google Colab | [Pertemuan1_Andi_240401010009](Pertemuan1_Andi_240401010009.ipynb) |
-| 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_Andi_240401010009.ipynb](Pertemuan2_Andi_240401010009) |
-| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Pertemuan3_Andi_240401010009.ipynb](Pertemuan3_Andi_240401010009.ipynb) |
-| 4 | Statistika Dasar & Analisis Data | [Pertemuan4_Andi_240401010009.ipynb](Pertemuan4_Andi_240401010009.ipynb) |
-| 5 | Visualisasi Data | [Pertemuan5_Andi_240401010009.ipynb](Pertemuan5_Andi_240401010009.ipynb) |
-| 6 | Persiapan Data | [Pertemuan6_Andi_240401010009.ipynb](Pertemuan6_Andi_240401010009.ipynb) |
-| 7 | Pengantar Machine Learning: Regresi Linier | [Pertemuan7_Andi_240401010009.ipynb](Pertemuan7_Andi_240401010009.ipynb) |
+| 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_Andi_240401010009](Pertemuan2_Andi_240401010009.ipynb) |
+| 3 | Data Cleaning: Missing, Outlier & Ekstraksi | [Pertemuan3_Andi_240401010009](Pertemuan3_Andi_240401010009.ipynb) |
+| 4 | Statistika Dasar & Analisis Data | [Pertemuan4_Andi_240401010009](Pertemuan4_Andi_240401010009.ipynb) |
+| 5 | Visualisasi Data | [Pertemuan5_Andi_240401010009](Pertemuan5_Andi_240401010009.ipynb) |
+| 6 | Persiapan Data | [Pertemuan6_Andi_240401010009](Pertemuan6_Andi_240401010009.ipynb) |
+| 7 | Pengantar Machine Learning: Regresi Linier | [Pertemuan7_Andi_240401010009](Pertemuan7_Andi_240401010009.ipynb) |
 
 ---
 ## Tools & Library yang Digunakan
