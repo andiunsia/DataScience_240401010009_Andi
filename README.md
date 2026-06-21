@@ -43,11 +43,11 @@ Pertemuan 1 menjadi fondasi awal, dimana dikenalkan dengan Python, variabel, lis
 
 Pertemuan 2, belajar melakukan eksplorasi data sederhana menggunakan Pandas, seperti filtering, grouping, dan agregasi.
 
-Pertemuan 3, belajar data cleaning seperti menangani missing values, duplikasi, outlier, dan inkonsistensi format pada dataset.
+Pertemuan 3, mempelajari data cleaning seperti menangani missing values, duplikasi, outlier, dan inkonsistensi format pada dataset.
 
-Pertemuan 4, belajar statistika deskriptif dan visualisasi dengan dataset Iris. Belajar membaca distribusi data, korelasi antar fitur, serta membuat boxplot dan heatmap.
+Pertemuan 4, mempelajari Statistika Dasar & Analisis Data. Belajar membaca distribusi data, korelasi antar fitur, serta membuat boxplot dan heatmap.
 
-Pertemuan 5, belajar visualisasi statis dengan membuat dashboard 2×2 untuk dataset tips, lengkap dengan interpretasi bisnis (What–So What–Now What).
+Pertemuan 5, belajar visualisasi data dengan membuat dashboard 2×2 untuk dataset tips, lengkap dengan interpretasi bisnis (What–So What–Now What).
 
 Pertemuan 6, mempelajari preprocessing yang benar: encoding, scaling, dan train-test split tanpa data leakage.
 
