@@ -3,7 +3,7 @@
 ---
 **Nama :** Andi  
 **NIM :** 240401010009  
-**Kelas :** IF401
+**Kelas :** IF401  
 **Program Studi:** Data Science
 
 ---
